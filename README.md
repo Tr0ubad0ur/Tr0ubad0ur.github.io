@@ -21,7 +21,7 @@ Fullstack developer
 
 <p align="left"> <a href="https://www.github.com/Tr0ubad0ur" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
 
-<p align="left"> <a href="https://www.github.com/Tr0ubad0ur" target="_blank" rel="noreferrer"> <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
+<p> <a href="https://t.me/Papajunn" target="_blank" rel="noreferrer"> <picture> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
 
 ### Badges
 
